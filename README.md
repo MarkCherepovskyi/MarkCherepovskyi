@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markcherepovskyi&label=Profile%20views&color=0e75b6&style=flat" alt="markcherepovskyi" /> </p>
 
-- 🔭 I’m currently working on **Distributed Lab**
+- 🔭 I’m currently working at **Distributed Lab**
 
 - 📫 How to reach me **mark.cherepovskyi@gmail.com**
 
