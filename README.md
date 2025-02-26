@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Full-Stack Blockchain & Web3 Developer | Golang | Cosmos SDK | Ethereum | Solana | Vue.js | React | Next.js | Machine Learning Enthusiast</h1>
+<h1 align="center">🚀 Blockchain & Web3 Developer & ML | Golang | Cosmos SDK | Ethereum | Machine Learning Enthusiast</h1>
 I am a full-stack blockchain and Web3 developer with over 2 years of hands-on experience in building and deploying decentralized applications (dApps). My backend proficiency spans technologies like Golang, Cosmos SDK, Ethereum, and Solana. On the frontend, I specialize in Vue.js, React, and Next.js, ensuring smooth and interactive user experiences for decentralized applications.
 
 In addition to my blockchain expertise, I have a strong background in machine learning, with a specific research interest in anomaly detection. I apply this knowledge to enhance system security, identify fraud, and optimize performance in both blockchain and traditional applications.
